@@ -1,4 +1,4 @@
-# CI2024_lab2: n-puzzle problem
+# CI2024_lab3: n-puzzle problem
 This project contains my 3 solutions for the n-puzzle problem, which is a puzzle game consisting of a board of `n × n` cells, where `n` is an integer and `n > 2`.
 The board contains `n^2 - 1` tiles numbered from `1` to `n^2 - 1`, and one empty cell (represented by the value `0` in this project).\
 The goal of the game is to rearrange the tiles in the board to reach a goal configuration, by moving one of the adjacent tiles into the empty cell.\
